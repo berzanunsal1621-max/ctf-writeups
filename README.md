@@ -6,7 +6,7 @@ Writeups for various CTF challenges and vulnerable machines I have solved. Each 
 
 | Lab | Vulnerability | Difficulty |
 |-----|--------------|------------|
-| [ProFTPD 1.3.5 - mod_copy RCE](./proftpd-modcopy-rce/) | CVE-2015-3306 | Easy |
+| [ProFTPD 1.3.5 - mod_copy RCE](./ProFTPD-1.3.5-mod_copy-RCE/) | CVE-2015-3306 | Easy |
 
 ## Tools
 
