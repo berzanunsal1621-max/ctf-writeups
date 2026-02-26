@@ -11,6 +11,7 @@ Writeups for various CTF challenges and vulnerable machines I have solved. Each 
 | [Samba 3.5.0 - 4.6.4 RCE](./Samba-3.5.0-4.6.4-RCE-CVE-2017-7494/) | CVE-2017-7494 | Easy |
 | [Apache Tomcat JSP Upload Bypass RCE](./Tomcat-JSP-Upload-Bypass-CVE-2017-12617/) | CVE-2017-12617 | Easy |
 | [Grafana Directory Traversal](./Grafana-Directory-Traversal-CVE-2021-43798/) | CVE-2021-43798 | Easy |
+| [Apache CouchDB RCE](./CouchDB-RCE-CVE-2017-12636/) | CVE-2017-12636 | Easy |
 
 ## Tools
 
