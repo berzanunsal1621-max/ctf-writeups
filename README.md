@@ -13,6 +13,7 @@ Writeups for various CTF challenges and vulnerable machines I have solved. Each 
 | [Grafana Directory Traversal](./Grafana-Directory-Traversal-CVE-2021-43798/) | CVE-2021-43798 | Easy |
 | [Apache CouchDB RCE](./CouchDB-RCE-CVE-2017-12636/) | CVE-2017-12636 | Easy |
 | [phpMyAdmin Authenticated RCE](./phpMyAdmin-RCE-CVE-2018-12613/) | CVE-2018-12613 | Easy |
+| [Webmin Backdoor RCE](./Webmin-RCE-CVE-2019-15107/) | CVE-2019-15107 | Easy |
 
 ## Tools
 
