@@ -12,6 +12,7 @@ Writeups for various CTF challenges and vulnerable machines I have solved. Each 
 | [Apache Tomcat JSP Upload Bypass RCE](./Tomcat-JSP-Upload-Bypass-CVE-2017-12617/) | CVE-2017-12617 | Easy |
 | [Grafana Directory Traversal](./Grafana-Directory-Traversal-CVE-2021-43798/) | CVE-2021-43798 | Easy |
 | [Apache CouchDB RCE](./CouchDB-RCE-CVE-2017-12636/) | CVE-2017-12636 | Easy |
+| [phpMyAdmin Authenticated RCE](./phpMyAdmin-RCE-CVE-2018-12613/) | CVE-2018-12613 | Easy |
 
 ## Tools
 
