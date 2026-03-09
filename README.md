@@ -15,6 +15,7 @@ Writeups for various CTF challenges and vulnerable machines I have solved. Each 
 | [phpMyAdmin Authenticated RCE](./phpMyAdmin-RCE-CVE-2018-12613/) | CVE-2018-12613 | Easy |
 | [Webmin Backdoor RCE](./Webmin-RCE-CVE-2019-15107/) | CVE-2019-15107 | Easy |
 | [PostgreSQL COPY PROGRAM RCE](./PostgreSQL-COPY-PROGRAM-RCE-CVE-2019-9193/) | CVE-2019-9193 | Easy |
+| [Apache APISIX Default Token RCE](./Apache-APISIX-RCE-CVE-2020-13945/) | CVE-2020-13945 | Easy |
 
 ## Tools
 
